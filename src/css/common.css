@@ -21,7 +21,7 @@ img {
   display: flex;
   text-align: center;
   color: #212121;
-  border-radius: 2px;
+  border-radius: 1px;
 }
 
 .field {
@@ -39,6 +39,6 @@ img {
 
 .label {
   font-family: 'Roboto Mono', monospace;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1;
 }
